@@ -1,1 +1,1 @@
-export const BASE_URL = "https://proud-gloves.cyclic.app/"
+export const BASE_URL = "https://my-notes-app-production-104c.up.railway.app/"
